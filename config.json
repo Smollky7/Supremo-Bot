@@ -1,6 +1,6 @@
 {
   "prefix": "$",
-  "token": "NzUxNTE1MjA5NjI0OTc3NTQw.X1KNFA.82CAdm5bln7UmgfFcXJq-QhFTWM",
+  "token": "NzUxNTE1MjA5NjI0OTc3NTQw.X1KNFA.R7Xoy9vZL02xe81ccHdZp8pwCgc",
   "mongoPath": "mongodb+srv://AdminSupremo:3gnLjGDpAdjXimoY@supremobot.tgx2x.mongodb.net/BotsDiscordSupremo?retryWrites=true&w=majority",
   "redisPath":"//redis-10021.c238.us-central1-2.gce.cloud.redislabs.com:10021?password=JWPs0Gfbtz1hu0Z7TXhLKv1dWV6LCKz7",
   "svrID":"814555335800520734"
